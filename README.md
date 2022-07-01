@@ -9,6 +9,8 @@ This project focuses on general public health and especially for the older gener
 Checking against the required prescription.   
   
 ![alt text](https://github.com/justinchow3010/CheckPill/blob/main/Recording/result.gif)  
+  
+<img src="https://github.com/justinchow3010/CheckPill/blob/main/complex.jpg" width="500">  
 
 # :mechanic: Admin  
 Admin can manipulate data inside the local database to allow detection for new pills.  
