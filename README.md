@@ -1,5 +1,5 @@
 # :pill: CheckPill
-A real-time pill-checking mobile app designed for the elderly, implemented with Flutter and OpenCV. The main feature will be briefly discussed below.
+A real-time pill-checking mobile app designed for the elderly, implemented with Flutter and OpenCV. The main feature will be briefly discussed below.  
 <img src="https://github.com/justinchow3010/CheckPill/blob/main/icon.png" width="300">  
 
 # :wave: Background  
@@ -16,3 +16,4 @@ Admin can manipulate data inside the local database to allow detection for new p
 # :student: Users  
 Users are able to scan pills, record their own information, and input prescriptions by scanning QR code.  
 
+***If you want to know more information, feel free to contact me***
